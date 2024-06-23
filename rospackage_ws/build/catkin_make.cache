@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/sung/ws/project_git/rospackage_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sung/ws/project_git/rospackage_ws/install -G Unix Makefiles

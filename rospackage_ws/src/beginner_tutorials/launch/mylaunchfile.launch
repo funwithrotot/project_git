@@ -1,0 +1,6 @@
+<launch>
+
+    <node name="publisher_node" pkg="beginner_tutorials" type="publisher_node.py" />
+    <node name="subscriber_node" pkg="beginner_tutorials" type="subscriber_node.py" />
+
+</launch>
